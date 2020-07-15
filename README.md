@@ -1,46 +1,52 @@
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Jane
+# 𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓙𝓪𝓷𝓮
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+𝐢𝐟( != 𝐜𝐨𝐟𝐟𝐞𝐞){ <br>
+𝐚𝐥𝐞𝐫𝐭(' 𝐆𝐨 𝐠𝐞𝐭 𝐜𝐨𝐟𝐟𝐞𝐞 ❤️ '); <br>
+}
 
-👩‍💻 I am the building my design agency focusing on User Interface Design for Mobile Applicatioins
+👩‍💻 𝐈 𝐚𝐦 𝐭𝐡𝐞 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐦𝐲 𝐝𝐞𝐬𝐢𝐠𝐧 𝐚𝐠𝐞𝐧𝐜𝐲 𝐟𝐨𝐜𝐮𝐬𝐢𝐧𝐠 𝐨𝐧 𝐔𝐬𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 𝐟𝐨𝐫 𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐢𝐧𝐬
 
-👣 I  am currectly learning Front-End development through 100days of code [Follow my journey](https://github.com/muchirijane/100-days-of-code-1)
+👣 𝐈 𝐚𝐦 𝐜𝐮𝐫𝐫𝐞𝐜𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝟏𝟎𝟎𝐝𝐚𝐲𝐬 𝐨𝐟 𝐜𝐨𝐝𝐞 [𝐅𝐨𝐥𝐥𝐨𝐰 𝐦𝐲 𝐣𝐨𝐮𝐫𝐧𝐞𝐲](https://github.com/muchirijane/100-days-of-code-1)
 
-✍ I write Tech articles on what I learn in Dev platform @ [TracyCss](https://dev.to/tracycss)
+✍ 𝐈 𝐰𝐫𝐢𝐭𝐞 𝐓𝐞𝐜𝐡 𝐚𝐫𝐭𝐢𝐜𝐥𝐞𝐬 𝐨𝐧 𝐰𝐡𝐚𝐭 𝐈 𝐥𝐞𝐚𝐫𝐧 𝐢𝐧 𝐃𝐞𝐯 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 @ [𝐓𝐫𝐚𝐜𝐲𝐂𝐬𝐬](https://dev.to/tracycss)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<br>
+
+![Tracy's github stats](https://github-readme-stats.vercel.app/api?username=muchirijane&show_icons=true&hide_border=true)
+
+## 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+      <td width="10%" align="center">
+        <span>𝗛𝗧𝗠𝗟5</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+      <td width="10%" align="center">
+        <span>𝗖𝗦𝗦3</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Boostrap</span><br><br><br>
+      <td width="10%" align="center">
+        <span>𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
+      <td width="10%" align="center">
+        <span>𝗘𝗦𝗟𝗜𝗡𝗧</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+      <td width="10%" align="center">
+        <span>𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
@@ -50,26 +56,26 @@
 
 
 ---
+<br>
 
-
-## Coding tools I use
+### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+      <td width="10%" align="center">
+        <span>𝗚𝗜𝗧</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
+      <td width="10%" align="center">
+        <span>𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
       </td>
     </tr>
@@ -78,26 +84,27 @@
 
 ---
 
+<br>
 
-## Design tools I use
+### 𝘿𝙚𝙨𝙞𝙜𝙣 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      <td width="15%" align="center">
+        <span>𝗙𝗜𝗚𝗠𝗔</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      <td width="15%" align="center">
+        <span>𝗜𝗡𝗩𝗜𝗦𝗜𝗢𝗡</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/invision.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+      <td width="15%" align="center">
+        <span>𝗠𝗔𝗥𝗩𝗘𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/marvel.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+      <td width="15%" align="center">
+        <span>𝐙𝐄𝐏𝐋𝐈𝐍</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/zeplin.svg">
       </td>
     </tr>
   </tbody>
@@ -108,4 +115,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
 
 ---
-⭐️ From [xiaoluoboding](https://github.com/xiaoluoboding)
+⭐️ From [Tracy](https://github.com/muchirijane)
