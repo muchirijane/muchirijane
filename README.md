@@ -12,10 +12,12 @@
 
 <br>
 
-![Tracy's github stats](https://github-readme-stats.vercel.app/api?username=muchirijane&show_icons=true&hide_border=true)
+
+![Jane Muthoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muchirijane&hide=["stars"]&show_icons=true)
+
+<br>
 
 ## 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
-
 <table>
   <tbody>
     <tr valign="top">
@@ -54,8 +56,6 @@
   </tbody>
 </table>
 
-
----
 <br>
 
 ### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
@@ -82,7 +82,6 @@
   </tbody>
 </table>
 
----
 
 <br>
 
@@ -110,9 +109,6 @@
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
 
 ---
 ⭐️ From [Tracy](https://github.com/muchirijane)
