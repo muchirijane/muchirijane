@@ -5,7 +5,7 @@
 }
 
 
-### 𝓖𝓮𝓽 𝓽𝓸 𝓴𝓷𝓸𝔀 𝓶𝓮
+### 𝗚𝗲𝘁 𝘁𝗼 𝗸𝗻𝗼𝘄 𝗺𝗲
 
 👩‍💻 𝐈 𝐚𝐦 𝐭𝐡𝐞 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐦𝐲 𝐝𝐞𝐬𝐢𝐠𝐧 𝐚𝐠𝐞𝐧𝐜𝐲 𝐟𝐨𝐜𝐮𝐬𝐢𝐧𝐠 𝐨𝐧 𝐔𝐬𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 𝐟𝐨𝐫 𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐢𝐧𝐬
 
@@ -142,7 +142,7 @@
 
 <br>
 
-#### Get in touch with me or just say hey
+#### 𝗚𝗲𝘁 𝗶𝗻 𝘁𝗼𝘂𝗰𝗵 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗼𝗿 𝗷𝘂𝘀𝘁 𝘀𝗮𝘆 𝗵𝗲𝘆
 [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/TracyCss)  | [<img  height="20px" width = "30px" src="https://cdn.svgporn.com/logos/github-icon.svg">](https://github.com/muchirijane)  |  [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/gitlab.svg">](https://gitlab.com/muchirijane) |  [<img  width = "30px" height="20px" src="https://cdn.svgporn.com/logos/codepen-icon.svg">](https://codepen.io/tracey_jane) | [<img width = "30px"  height="20px" src="https://cdn.svgporn.com/logos/pinterest.svg">](https://www.pinterest.com/janejeiks) | [<img width = "100px"  height="20px" src="https://cdn.svgporn.com/logos/behance.svg">](https://www.behance.net/muchirijane) 
 
 ---
