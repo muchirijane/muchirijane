@@ -1,7 +1,7 @@
 # 𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓙𝓪𝓷𝓮
 
-𝒾𝒻( !== 𝒟𝒾𝒹𝓃'𝓉 𝓉𝒶𝓀𝑒 𝒸𝑜𝒻𝒻𝑒𝑒){ <br>
-𝒶𝓁𝑒𝓇𝓉(' 𝒢𝑜 𝑔𝑒𝓉 𝒸𝑜𝒻𝒻𝑒𝑒 ❤️ '); <br>
+𝗶𝗳( !== 𝗗𝗶𝗱𝗻'𝘁 𝘁𝗮𝗸𝗲 𝗰𝗼𝗳𝗳𝗲𝗲){ <br>
+𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ '); <br>
 }
 
 
@@ -15,6 +15,8 @@
 
 ❤️ 𝐈 𝐥𝐨𝐯𝐞 𝐦𝐮𝐬𝐢𝐜, 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐩𝐨𝐞𝐭𝐫𝐲 𝐚𝐧𝐝 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐧𝐨𝐧-𝐟𝐢𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐛𝐨𝐨𝐤𝐬 𝐭𝐨 𝐫𝐞𝐥𝐚𝐱
 
+🤓 𝐈 𝐚𝐦 𝐚 𝐛𝐢𝐠 𝐇𝐚𝐫𝐫𝐲 𝐏𝐨𝐭𝐭𝐞𝐫 𝐅𝐚𝐧
+
 <br>
 
 
@@ -26,33 +28,33 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗛𝗧𝗠𝗟5</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗖𝗦𝗦3</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗻𝗽𝗺</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/npm.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
@@ -61,25 +63,24 @@
   </tbody>
 </table>
 
-<br>
 
 #### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗚𝗜𝗧</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/netlify.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/terminal.svg">
       </td>
@@ -88,25 +89,25 @@
 </table>
 
 
-<br>
+
 
 #### 𝘿𝙚𝙨𝙞𝙜𝙣 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗙𝗜𝗚𝗠𝗔</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗜𝗡𝗩𝗜𝗦𝗜𝗢𝗡</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/invision.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗠𝗔𝗥𝗩𝗘𝗟</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/marvel.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝐙𝐄𝐏𝐋𝐈𝐍</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/zeplin.svg">
       </td>
@@ -114,21 +115,24 @@
   </tbody>
 </table>
 
-<br>
 
 #### 𝙒𝙝𝙖𝙩 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗕𝗔𝗕𝗘𝗟</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/babel.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
         <span>𝗡𝗢𝗗𝗘 𝗝𝗦</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="2%" align="center">
+        <span>𝗥𝗘𝗔𝗖𝗧 𝗝𝗦</span><br><br>
+        <img height="40px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="2%" align="center">
         <span>𝗪𝗘𝗕𝗣𝗔𝗖𝗞</span><br><br>
         <img height="40px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
@@ -139,6 +143,7 @@
 <br>
 
 #### Get in touch with me or just say hey
+[<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/TracyCss)  | [<img  height="20px" width = "30px" src="https://cdn.svgporn.com/logos/github-icon.svg">](https://github.com/muchirijane)  |  [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/gitlab.svg">](https://gitlab.com/muchirijane) |  [<img  width = "30px" height="20px" src="https://cdn.svgporn.com/logos/codepen-icon.svg">](https://codepen.io/tracey_jane) | [<img width = "30px"  height="20px" src="https://cdn.svgporn.com/logos/pinterest.svg">](https://www.pinterest.com/janejeiks) | [<img width = "100px"  height="20px" src="https://cdn.svgporn.com/logos/behance.svg">](https://www.behance.net/muchirijane) 
 
 ---
-⭐️ From [Tracy](https://github.com/muchirijane)
+⭐️ 𝐹𝓇𝑜𝓂 [𝒥𝒶𝓃𝑒 𝒯𝓇𝒶𝒸𝓎](https://github.com/muchirijane)
