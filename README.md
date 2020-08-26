@@ -25,6 +25,7 @@
 <br>
 
 ## 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+
 <table>
   <tbody>
     <tr valign="top">
@@ -140,6 +141,17 @@
   </tbody>
 </table>
 
+<br>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. ❌ Closed PR 
+2. 🎉 Merged PR
+3. 💪 Opened PR 
+4. ❌ Closed PR 
+5. 💪 Opened PR 
+<!--END_SECTION:activity-->
 <br>
 
 #### 𝗚𝗲𝘁 𝗶𝗻 𝘁𝗼𝘂𝗰𝗵 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗼𝗿 𝗷𝘂𝘀𝘁 𝘀𝗮𝘆 𝗵𝗲𝘆
