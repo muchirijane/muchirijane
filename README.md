@@ -24,15 +24,13 @@
 
 <br>
 
-## 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+#### 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 <br>
 
 | 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | 𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦 | 𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣 | 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀 | 𝗻𝗽𝗺 | 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 | <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/sass.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/npm.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"> |
 
-<br>
-<br>
 
 #### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 <br>
@@ -40,8 +38,6 @@
 | 𝗚𝗜𝗧  | 𝗩𝗦 𝗖𝗼𝗱𝗲 | 𝗡𝗲𝘁𝗹𝗶𝗳𝘆 | 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 | 
 | ------------- | ------------- |------------- | ------------- |
 | <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/netlify.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/terminal.svg"> | 
-<br>
-<br>
 
 #### 𝘿𝙚𝙨𝙞𝙜𝙣 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 <br>
@@ -49,8 +45,6 @@
 | 𝗙𝗜𝗚𝗠𝗔 | 𝗜𝗡𝗩𝗜𝗦𝗜𝗢𝗡 | 𝗠𝗔𝗥𝗩𝗘𝗟 | 𝐙𝐄𝐏𝐋𝐈𝐍 | 
 | ------------- | ------------- |------------- | ------------- |
 | <img height="40px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/invision.svg"> |   <img height="40px" src="https://cdn.svgporn.com/logos/marvel.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/zeplin.svg"> | 
-<br>
-<br>
 
 #### 𝙒𝙝𝙖𝙩 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
 <br>
@@ -59,7 +53,15 @@
 | ------------- | ------------- |------------- | ------------- |
 | <img height="40px" src="https://cdn.svgporn.com/logos/babel.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/react.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/webpack.svg"> | 
 <br>
-<br>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#130](https://github.com//drewclem/protege/issues/130) in [drewclem/protege](https://github.com//drewclem/protege)
+2. ❌ Closed PR [#1](https://github.com//muchirijane/git_one/pull/1) in [muchirijane/git_one](https://github.com//muchirijane/git_one)
+3. 🎉 Merged PR [#1](https://github.com//muchirijane/dev-restaurant/pull/1) in [muchirijane/dev-restaurant](https://github.com//muchirijane/dev-restaurant)
+4. 💪 Opened PR [#136](https://github.com//drewclem/protege/pull/136) in [drewclem/protege](https://github.com//drewclem/protege)
+5. ❌ Closed PR [#2](https://github.com//muchirijane/protege/pull/2) in [muchirijane/protege](https://github.com//muchirijane/protege)
+<!--END_SECTION:activity-->
+
 
 #### 𝗚𝗲𝘁 𝗶𝗻 𝘁𝗼𝘂𝗰𝗵 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗼𝗿 𝗷𝘂𝘀𝘁 𝘀𝗮𝘆 𝗵𝗲𝘆
 
