@@ -1,6 +1,6 @@
 # 𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓙𝓪𝓷𝓮
 
-𝗶𝗳( !== 𝗰𝗼𝗳𝗳𝗲𝗲){ <br>
+𝗶𝗳( !== 𝗗𝗶𝗱𝗻'𝘁 𝘁𝗮𝗸𝗲 𝗰𝗼𝗳𝗳𝗲𝗲){ <br>
 𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ '); <br>
 }
 
@@ -25,137 +25,45 @@
 <br>
 
 ## 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="2%" align="center">
-        <span>𝗛𝗧𝗠𝗟5</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗖𝗦𝗦3</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="2%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗻𝗽𝗺</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/npm.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-    
-  </tbody>
-</table>
-
-
-#### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="2%" align="center">
-        <span>𝗚𝗜𝗧</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/terminal.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-#### 𝘿𝙚𝙨𝙞𝙜𝙣 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="2%" align="center">
-        <span>𝗙𝗜𝗚𝗠𝗔</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/figma.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗜𝗡𝗩𝗜𝗦𝗜𝗢𝗡</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/invision.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗠𝗔𝗥𝗩𝗘𝗟</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/marvel.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝐙𝐄𝐏𝐋𝐈𝐍</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/zeplin.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-#### 𝙒𝙝𝙖𝙩 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="2%" align="center">
-        <span>𝗕𝗔𝗕𝗘𝗟</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/babel.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗡𝗢𝗗𝗘 𝗝𝗦</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗥𝗘𝗔𝗖𝗧 𝗝𝗦</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="2%" align="center">
-        <span>𝗪𝗘𝗕𝗣𝗔𝗖𝗞</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <br>
 
-### :zap: Recent Activity
+| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | 𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦 | 𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣 | 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀 | 𝗻𝗽𝗺 | 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
+| <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/sass.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/npm.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"> |
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com//drewclem/protege/issues/130) in [drewclem/protege](https://github.com//drewclem/protege)
-2. ❌ Closed PR [#1](https://github.com//muchirijane/git_one/pull/1) in [muchirijane/git_one](https://github.com//muchirijane/git_one)
-3. 🎉 Merged PR [#1](https://github.com//muchirijane/dev-restaurant/pull/1) in [muchirijane/dev-restaurant](https://github.com//muchirijane/dev-restaurant)
-4. 💪 Opened PR [#136](https://github.com//drewclem/protege/pull/136) in [drewclem/protege](https://github.com//drewclem/protege)
-5. ❌ Closed PR [#2](https://github.com//muchirijane/protege/pull/2) in [muchirijane/protege](https://github.com//muchirijane/protege)
-<!--END_SECTION:activity-->
+<br>
+<br>
+
+#### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
+<br>
+
+| 𝗚𝗜𝗧  | 𝗩𝗦 𝗖𝗼𝗱𝗲 | 𝗡𝗲𝘁𝗹𝗶𝗳𝘆 | 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 | 
+| ------------- | ------------- |------------- | ------------- |
+| <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/netlify.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/terminal.svg"> | 
+<br>
+<br>
+
+#### 𝘿𝙚𝙨𝙞𝙜𝙣 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
+<br>
+
+| 𝗙𝗜𝗚𝗠𝗔 | 𝗜𝗡𝗩𝗜𝗦𝗜𝗢𝗡 | 𝗠𝗔𝗥𝗩𝗘𝗟 | 𝐙𝐄𝐏𝐋𝐈𝐍 | 
+| ------------- | ------------- |------------- | ------------- |
+| <img height="40px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/invision.svg"> |   <img height="40px" src="https://cdn.svgporn.com/logos/marvel.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/zeplin.svg"> | 
+<br>
+<br>
+
+#### 𝙒𝙝𝙖𝙩 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
+<br>
+
+| 𝗕𝗔𝗕𝗘𝗟 | 𝗡𝗢𝗗𝗘 𝗝𝗦 | 𝗥𝗘𝗔𝗖𝗧 𝗝𝗦 | 𝗪𝗘𝗕𝗣𝗔𝗖𝗞 | 
+| ------------- | ------------- |------------- | ------------- |
+| <img height="40px" src="https://cdn.svgporn.com/logos/babel.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/react.svg"> |  <img height="40px" src="https://cdn.svgporn.com/logos/webpack.svg"> | 
+<br>
 <br>
 
 #### 𝗚𝗲𝘁 𝗶𝗻 𝘁𝗼𝘂𝗰𝗵 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗼𝗿 𝗷𝘂𝘀𝘁 𝘀𝗮𝘆 𝗵𝗲𝘆
-[<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/TracyCss)  | [<img  height="20px" width = "30px" src="https://cdn.svgporn.com/logos/github-icon.svg">](https://github.com/muchirijane)  |  [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/gitlab.svg">](https://gitlab.com/muchirijane) |  [<img  width = "30px" height="20px" src="https://cdn.svgporn.com/logos/codepen-icon.svg">](https://codepen.io/tracey_jane) | [<img width = "30px"  height="20px" src="https://cdn.svgporn.com/logos/pinterest.svg">](https://www.pinterest.com/janejeiks) | [<img width = "100px"  height="20px" src="https://cdn.svgporn.com/logos/behance.svg">](https://www.behance.net/muchirijane) 
+
+|[<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/TracyCss)  | [<img  height="20px" width = "30px" src="https://cdn.svgporn.com/logos/github-icon.svg">](https://github.com/muchirijane)  |  [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/gitlab.svg">](https://gitlab.com/muchirijane) |  [<img  width = "30px" height="20px" src="https://cdn.svgporn.com/logos/codepen-icon.svg">](https://codepen.io/tracey_jane) | [<img width = "30px"  height="20px" src="https://cdn.svgporn.com/logos/pinterest.svg">](https://www.pinterest.com/janejeiks) | [<img width = "100px"  height="20px" src="https://cdn.svgporn.com/logos/behance.svg">](https://www.behance.net/muchirijane) 
 
 ---
 ⭐️ 𝐹𝓇𝑜𝓂 [𝒥𝒶𝓃𝑒 𝒯𝓇𝒶𝒸𝓎](https://github.com/muchirijane)
