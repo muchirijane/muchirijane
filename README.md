@@ -1,7 +1,12 @@
-# 𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓙𝓪𝓷𝓮
 
+<div align="center">
+   <h1>𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓙𝓪𝓷𝓮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=she&object=Her&height=20"> 
+</div>
 
-𝗶𝗳( !== 𝗗𝗶𝗱𝗻'𝘁 𝘁𝗮𝗸𝗲 𝗰𝗼𝗳𝗳𝗲𝗲){ <br>
+𝗶𝗳( !== took coffee){ <br>
 𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ '); <br>
 }
 
