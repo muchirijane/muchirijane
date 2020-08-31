@@ -6,9 +6,11 @@
    <img src="https://pronoun.cyou/x/y?subject=she&object=Her&height=20"> 
 </div>
 
-𝗶𝗳( !== took coffee){ <br>
-𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ '); <br>
+<div align = "center">
+   𝗶𝗳( !== took coffee){ <br>
+  𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ '); <br>
 }
+</div>
 
 
 #### 𝗚𝗲𝘁 𝘁𝗼 𝗸𝗻𝗼𝘄 𝗺𝗲
