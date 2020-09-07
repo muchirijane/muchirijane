@@ -1,10 +1,11 @@
 
 <div align="center">
-   <h1>𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓙𝓪𝓷𝓮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓙𝓪𝓷𝓮 <img src="https://media.giphy.com/media/SL9D95eVTSghTBb9gc/giphy.gif" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=she&object=Her/Hers&height=20"> 
 </div>
+<br>
 
 <div align = "center">
    𝗶𝗳( !== took coffee){ <br>
@@ -33,7 +34,7 @@
 <br>
 
 
-![Jane Muthoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muchirijane&show_icons=true&theme=radical)
+![Jane Muthoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muchirijane&show_icons=true&theme=nightowl)
 
 <br>
 
