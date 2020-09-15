@@ -23,7 +23,9 @@
 
 - 👣 I am currently learning web development through 100days of code [follow my journey](https://github.com/muchirijane/100-days-of-code-1)
 
-- ✍ I write Tech articles on what I learn in Dev.to platfoem every week. Join my amazing 500 supporters [@tracycss](https://dev.to/tracycss)
+- ✍ I write Tech articles on what I learn in Dev.to platfoem every week. Join my amazing 500 supporters [@tracycss](https://dev.to/tracycss)                                  <a href="https://dev.to/tracycss">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jane Tracy 👩🏽‍💻's DEV Profile" height="30" width="30">
+</a>
 
 - ❤️ I love music, writing poetry and reading non-fictional books which I review on goodreads platform
 
@@ -75,7 +77,7 @@
 
 #### 𝗚𝗲𝘁 𝗶𝗻 𝘁𝗼𝘂𝗰𝗵 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗼𝗿 𝗷𝘂𝘀𝘁 𝘀𝗮𝘆 𝗵𝗲𝘆
 
-|[<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/TracyCss)  | [<img  height="20px" width = "30px" src="https://cdn.svgporn.com/logos/github-icon.svg">](https://github.com/muchirijane)  |  [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/gitlab.svg">](https://gitlab.com/muchirijane) |  [<img  width = "30px" height="20px" src="https://cdn.svgporn.com/logos/codepen-icon.svg">](https://codepen.io/tracey_jane) | [<img width = "30px"  height="20px" src="https://cdn.svgporn.com/logos/pinterest.svg">](https://www.pinterest.com/janejeiks) | [<img width = "100px"  height="20px" src="https://cdn.svgporn.com/logos/behance.svg">](https://www.behance.net/muchirijane) 
+|<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jane Tracy 👩🏽‍💻's DEV Profile" height="30" width="30">|[<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/TracyCss)  | [<img  height="20px" width = "30px" src="https://cdn.svgporn.com/logos/github-icon.svg">](https://github.com/muchirijane)  |  [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/gitlab.svg">](https://gitlab.com/muchirijane) |  [<img  width = "30px" height="20px" src="https://cdn.svgporn.com/logos/codepen-icon.svg">](https://codepen.io/tracey_jane) | [<img width = "30px"  height="20px" src="https://cdn.svgporn.com/logos/pinterest.svg">](https://www.pinterest.com/janejeiks) | [<img width = "100px"  height="20px" src="https://cdn.svgporn.com/logos/behance.svg">](https://www.behance.net/muchirijane) 
 
 ---
 ⭐️ 𝐹𝓇𝑜𝓂 [𝒥𝒶𝓃𝑒 𝒯𝓇𝒶𝒸𝓎](https://github.com/muchirijane)
