@@ -30,6 +30,11 @@
 - ❤️ I love music, writing poetry and reading non-fictional books which I review on goodreads platform
 
 - 🤓 I am a big Harry potter fan
+
+- 💖 For support you can buy me some cups of coffee  </br> 
+<a href="https://www.buymeacoffee.com/janetracy" target="_blank">
+   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee"height="35" width="160" loading="lazy">
+</a>
  </p>
 
 <br>
