@@ -72,11 +72,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/muchirijane/learning-code-through-github-repos/issues/5) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-2. 🗣 Commented on [#23](https://github.com/muchirijane/learning-code-through-github-repos/issues/23) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-3. ❌ Closed PR [#28](https://github.com/muchirijane/learning-code-through-github-repos/pull/28) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-4. 🎉 Merged PR [#33](https://github.com/muchirijane/learning-code-through-github-repos/pull/33) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-5. 💪 Opened PR [#33](https://github.com/muchirijane/learning-code-through-github-repos/pull/33) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+1. 🎉 Merged PR [#35](https://github.com/muchirijane/learning-code-through-github-repos/pull/35) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+2. 💪 Opened PR [#35](https://github.com/muchirijane/learning-code-through-github-repos/pull/35) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+3. 🎉 Merged PR [#34](https://github.com/muchirijane/learning-code-through-github-repos/pull/34) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+4. 🗣 Commented on [#5](https://github.com/muchirijane/learning-code-through-github-repos/issues/5) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+5. 🗣 Commented on [#23](https://github.com/muchirijane/learning-code-through-github-repos/issues/23) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
 <!--END_SECTION:activity-->
 
 
