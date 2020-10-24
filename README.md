@@ -72,11 +72,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/muchirijane/platform/pull/4) in [muchirijane/platform](https://github.com/muchirijane/platform)
-2. 💪 Opened PR [#4](https://github.com/muchirijane/platform/pull/4) in [muchirijane/platform](https://github.com/muchirijane/platform)
-3. 🗣 Commented on [#70](https://github.com/muchirijane/learning-code-through-github-repos/issues/70) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-4. 🎉 Merged PR [#3](https://github.com/muchirijane/platform/pull/3) in [muchirijane/platform](https://github.com/muchirijane/platform)
-5. 💪 Opened PR [#3](https://github.com/muchirijane/platform/pull/3) in [muchirijane/platform](https://github.com/muchirijane/platform)
+1. 🗣 Commented on [#1587](https://github.com/ushahidi/platform-client/issues/1587) in [ushahidi/platform-client](https://github.com/ushahidi/platform-client)
+2. 🎉 Merged PR [#4](https://github.com/muchirijane/platform/pull/4) in [muchirijane/platform](https://github.com/muchirijane/platform)
+3. 💪 Opened PR [#4](https://github.com/muchirijane/platform/pull/4) in [muchirijane/platform](https://github.com/muchirijane/platform)
+4. 🗣 Commented on [#70](https://github.com/muchirijane/learning-code-through-github-repos/issues/70) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+5. 🎉 Merged PR [#3](https://github.com/muchirijane/platform/pull/3) in [muchirijane/platform](https://github.com/muchirijane/platform)
 <!--END_SECTION:activity-->
 
 
