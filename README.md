@@ -72,11 +72,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#67](https://github.com/muchirijane/learning-code-through-github-repos/issues/67) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-2. 🗣 Commented on [#23](https://github.com/muchirijane/learning-code-through-github-repos/issues/23) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-3. 🗣 Commented on [#71](https://github.com/muchirijane/learning-code-through-github-repos/issues/71) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-4. 🗣 Commented on [#1582](https://github.com/ushahidi/platform-client/issues/1582) in [ushahidi/platform-client](https://github.com/ushahidi/platform-client)
-5. 🗣 Commented on [#1587](https://github.com/ushahidi/platform-client/issues/1587) in [ushahidi/platform-client](https://github.com/ushahidi/platform-client)
+1. 🎉 Merged PR [#72](https://github.com/muchirijane/learning-code-through-github-repos/pull/72) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+2. 💪 Opened PR [#72](https://github.com/muchirijane/learning-code-through-github-repos/pull/72) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+3. 🎉 Merged PR [#71](https://github.com/muchirijane/learning-code-through-github-repos/pull/71) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+4. 🗣 Commented on [#71](https://github.com/muchirijane/learning-code-through-github-repos/issues/71) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+5. ❗️ Closed issue [#67](https://github.com/muchirijane/learning-code-through-github-repos/issues/67) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
 <!--END_SECTION:activity-->
 
 
