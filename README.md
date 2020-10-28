@@ -19,19 +19,19 @@
  <p align = "left" > 
    <img align = "right" src ="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif" height ="280px">
   
-+  👩‍💻  I am building my design studio focusing on User Interface Design  for Mobile Applications. If you have an app idea and need to see it through from paper sketches to high fidelity mockup with a prototype reach out muchirijane@outlook.com
++  👩‍💻  I am building my design studio focusing on User Interface Design  for Mobile Applications. If you have an app idea and need to see it through from paper sketches to high fidelity mockup with a prototype reach out muchirijane@outlook.com.
 
-- 👣 I am currently learning web development(Self-taught dev 💚) through 100days of code [follow my journey](https://github.com/muchirijane/100-days-of-code-1)
+- 👣 I am currently learning web development(Self-taught dev 💚) through 100days of code [follow my journey](https://github.com/muchirijane/100-days-of-code-1).
 
-- ✍ I write Tech articles on what I learn in Dev.to platfoem every week. I mostly cover Html, CSS, JS topics and anything I find worth sharing as I learn 📕 . Join my amazing 500 + supporters [@tracycss](https://dev.to/tracycss)                                  <a href="https://dev.to/tracycss">
+- ✍ I write Tech articles on what I learn in Dev.to platfoem every week. I mostly cover Html, CSS, JS topics and anything I find worth sharing as I learn 📕 . Join my amazing 500 + supporters [@tracycss](https://dev.to/tracycss).                                  <a href="https://dev.to/tracycss">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jane Tracy 👩🏽‍💻's DEV Profile" height="30" width="30">
 </a>
 
-- ❤️ I love music, writing poetry and reading non-fictional books which I review on goodreads platform
+- ❤️ I love music, writing poetry and reading non-fictional books which I review on goodreads platform.
 
-- 🤓 I am a big Harry potter fan
+- 🤓 I am a big Harry potter fan.
 
-- 💖 For support you can buy me some cups of coffee  </br> 
+- 💖 For support you can buy me some cups of coffee.  </br> 
 <a href="https://www.buymeacoffee.com/janetracy" target="_blank">
    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee"height="35" width="160" loading="lazy">
 </a>
