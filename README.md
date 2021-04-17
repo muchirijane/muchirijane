@@ -23,7 +23,7 @@
 
 - 👣 I am currently learning web development(Self-taught dev 💚) through 100days of code [follow my journey](https://github.com/muchirijane/100-days-of-code-1). I also have some few projects I need to finish for [my portfolio](https://muchirijane.github.io/portfolio-gatsby/)
 
-- ✍ I write Tech articles on what I learn in Dev.to platfoem every week. I mostly cover Html, CSS, JS topics and anything I find worth sharing as I learn 📕 . Join my amazing 1500 + supporters [@tracycss](https://dev.to/tracycss).                                  <a href="https://dev.to/tracycss">
+- ✍ I write Tech articles on what I learn in Dev.to platfoem every week and I am also a mod there. I mostly cover Html, CSS, JS topics and anything I find worth sharing as I learn 📕 . Join my amazing 1500 + supporters [@tracycss](https://dev.to/tracycss).                                  <a href="https://dev.to/tracycss">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jane Tracy 👩🏽‍💻's DEV Profile" height="30" width="30">
 </a>
 
