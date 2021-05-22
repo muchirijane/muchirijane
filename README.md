@@ -18,8 +18,7 @@
 
  <p align = "left" > 
    <img align = "right" src ="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif" height ="280px">
-  
-+  👩‍💻  I am building my design studio focusing on User Interface Design  for Mobile Applications. If you have an app idea and need to see it through from paper sketches to high fidelity mockup with a prototype reach out muchirijane@outlook.com.
+
 
 - 👣 I am currently learning web development(Self-taught dev 💚) through 100days of code [follow my journey](https://github.com/muchirijane/100-days-of-code-1). I also have some few projects I need to finish for [my portfolio](https://muchirijane.github.io/portfolio-gatsby/)
 
