@@ -40,7 +40,14 @@
 <br>
 
 
-![Jane Muthoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muchirijane&show_icons=true&theme=nightowl)
+
+
+  ![Jane Muthoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muchirijane&show_icons=true&theme=nightowl)
+
+
+<p align="left">
+<a href="https://app.daily.dev/tracycss"><img src="https://api.daily.dev/devcards/b5d24b979bb444d2a29485f12c535509.png?r=ktn" width="200" alt="Jane Tracy Muthoni's Dev Card"/></a>
+</p>
 
 <br>
 
